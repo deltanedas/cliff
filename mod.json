@@ -3,7 +3,7 @@
 	"displayName": "[orange]cliff[]",
 	"author": "DeltaNedas",
 	"description": "Enables the cliff button in the editor"
-	"version": "1.0.0",
-	"minGameVersion": 109,
+	"version": "1.0.1",
+	"minGameVersion": 111,
 	"hidden": true
 }
