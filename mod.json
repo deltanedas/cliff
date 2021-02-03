@@ -2,7 +2,7 @@
 	"name": "cliff",
 	"displayName": "[orange]cliff[]",
 	"author": "DeltaNedas",
-	"description": "Enables the cliff button and any map size in the editor."
+	"description": "Enables the cliff button and any map size in the editor.",
 	"version": "1.1.0",
 	"minGameVersion": 111,
 	"hidden": true
